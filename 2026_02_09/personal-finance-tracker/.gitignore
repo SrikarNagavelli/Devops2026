@@ -1,0 +1,14 @@
+# Node
+node_modules/
+.env
+
+# Build outputs
+build/
+dist/
+
+# OS / Editor
+.DS_Store
+.vscode/
+
+# Ignore workspace junk
+../
